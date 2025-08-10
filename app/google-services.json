@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396818374945",
+    "project_id": "fridgebuddy-71b54",
+    "storage_bucket": "fridgebuddy-71b54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396818374945:android:d25f39bad7d76a73409e60",
+        "android_client_info": {
+          "package_name": "com.example.fridgebuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnBC9yH-I9D-q5rjrkGwY5sq99cNgKz1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
